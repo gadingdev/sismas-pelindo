@@ -1,3 +1,4 @@
 <?php
 
-require __DIR__ . '/../public/index.php';
+echo "Tes Vercel Berhasil Jalan!";
+exit;
