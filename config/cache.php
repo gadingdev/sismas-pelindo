@@ -15,8 +15,7 @@ return [
     |
     */
 
-    'default' => env('CACHE_STORE', 'array') ?: 'array',
-
+    'default' => env('CACHE_STORE', 'file'),
     /*
     |--------------------------------------------------------------------------
     | Cache Stores
